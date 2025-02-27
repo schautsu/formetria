@@ -7,3 +7,5 @@
 > O resultado é um software educativo que oferece usabilidade simples e intuitiva. Pensado como um jogo, os alunos praticam o reconhecimento e identificação de algumas das principais figuras geométricas planas por meio de quatro minijogos distintos, o que permite tornar o ensino e fixação de alguns conceitos de geometria básica mais atrativo e eficaz, se bem utilizado pelos educadores. Devido à forma em que é concebido, seu uso ainda pode ir além do tempo em sala de aula, sendo útil para que alunos revejam conceitos e se divirtam no processo. Assim, espera-se que o aplicativo desenvolvido contribua em alguma medida para a melhoria na educação matemática, tornando-a um processo prazeroso e proveitoso.
 
 Autores: SCHAUTZ, Vinícius Alves; MOLGORA, Adriana Betânia de Paula.
+
+- **Versão**: Unity 2022.3
