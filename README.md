@@ -8,5 +8,6 @@
 
 Autores: SCHAUTZ, Vinícius Alves; MOLGORA, Adriana Betânia de Paula.
 
-- **Versão**: Unity 2022.3
+- **Disponível para**: Android
+- **Desenvolvido em**: Unity 2022.3
 - [**Baixar projeto**](https://github.com/viniciusschautz/formetria/archive/refs/heads/main.zip)
