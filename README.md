@@ -1,4 +1,4 @@
-# Formetria
+## Formetria
 
 > Com o desenvolvimento tecnológico, o uso de dispositivos móveis em sala de aula tem possibilitado novas oportunidades na comunicação e informação no âmbito educacional, servindo não apenas para entreter os alunos, mas também para auxiliar no processo de ensino e aprendizagem, quando bem empregado. Na matemática, conforme apresentado por pesquisas, aplicativos lúdicos representam uma forma potencialmente atrativa e não convencional de ensino e abordagem de conteúdos ministrados em sala, capazes de estimular o interesse dos alunos por conteúdos matemáticos. Este projeto teve como objetivo criar um aplicativo educativo que explorasse tal abordagem no ensino de geometria básica. Sob essa ótica, foi almejada a criação de uma ferramenta lúdica e simples de ser usada, adequada a alunos dos primeiros anos do Ensino Fundamental, que atuasse como uma abordagem auxiliar no aprendizado sobre alguns conceitos relacionados, não eximindo a importância do ensino teórico.
 > 
